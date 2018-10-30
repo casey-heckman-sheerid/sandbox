@@ -7,3 +7,10 @@
 1. Drive to trailhead
 1. Start hiking
 1. ???
+
+## Phase 2
+
+1. Buy beer
+1. Drink beer
+1. ???
+1. Sleep
